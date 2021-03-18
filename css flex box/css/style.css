@@ -1,0 +1,15 @@
+body{}
+.Container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Container .box1{
+    height: 200PX;
+    weight:200px;
+    background-color: rgb(50, 111, 165);
+    color :black;
+    margin:10px;
+    padding: 10px;
+}
+.Container .box1 h1{}
